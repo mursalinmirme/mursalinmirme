@@ -61,6 +61,7 @@
 #### 🔗 <a href=https://github.com/mursalinmirme/wellnex>Client Side Github</a>
 #### 🔗 <a href=https://github.com/mursalinmirme/wellnex-server>Server Side Github</a>
 #### 🔗 <a href=https://wellnexs.web.app>Live link</a>
+### ⏭
 ### 02. BLOGPULSE (Dynamic Blog Platform)
 #### key Features:
    • Elevates user interaction through seamless account creation, blog posting, and reader engagement.
@@ -74,6 +75,7 @@
 #### 🔗 <a href=https://github.com/mursalinmirme/blog-pulse>Client Side Github</a>
 #### 🔗 <a href=https://github.com/mursalinmirme/blog-pulse-server>Server Side Github</a>
 #### 🔗 <a href=https://blog-pulse.vercel.app>Live link</a>
+### ⏭
 ### 03. CIRCUS_FESTIVITY (Event Management and Ticketing Website)
 #### key Features:
    • Implemented secure registration and login using Firebase.

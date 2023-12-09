@@ -46,3 +46,44 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mursalinmirme&theme=ocean-gradient&card_width=850)](https://git.io/streak-stats)
 
+## 🦾 My Recent Projects
+
+#### 01. WELLNEX (Healthcare Management Platform)
+#### key Features:
+   • Tailored dashboards for Organizers, Professionals, and Participants enhance user efficiency.
+
+   • Organizers seamlessly add, manage, and schedule medical camps for effective coordination.
+
+   • Participants join, pay, manage registrations, and provide reviews for a comprehensive user experience.
+
+   <b>Technologies</b>: • Front-end: React.js, Material UI, • Back-end: Node.js, Express.js, • Database: MongoDB, Firebase(Auth)
+
+#### 🔗 <a href=https://github.com/mursalinmirme/wellnex>Client Side Github</a>
+#### 🔗 <a href=https://github.com/mursalinmirme/wellnex-server>Server Side Github</a>
+#### 🔗 <a href=https://wellnexs.web.app>Live link</a>
+#### 02. BLOGPULSE (Dynamic Blog Platform)
+#### key Features:
+   • Elevates user interaction through seamless account creation, blog posting, and reader engagement.
+
+   • Empowers users to curate a personalized reading experience by adding and removing blogs of interest.
+
+   • Facilitates reader interaction by enabling comments and community-driven discussion around blog content.
+
+   <b>Technologies</b>: • Front-end: React.js, Material UI, • Back-end: Node.js, Express.js, • Database: MongoDB, Firebase(Auth)
+
+#### 🔗 <a href=https://github.com/mursalinmirme/blog-pulse>Client Side Github</a>
+#### 🔗 <a href=https://github.com/mursalinmirme/blog-pulse-server>Server Side Github</a>
+#### 🔗 <a href=https://blog-pulse.vercel.app>Live link</a>
+#### 03. CIRCUS_FESTIVITY (Event Management and Ticketing Website)
+#### key Features:
+   • Implemented secure registration and login using Firebase.
+
+   • Enhanced user engagement through dynamic navigation.
+
+   • Established a comprehensive ticketing system for adults, children, and infants.
+
+   <b>Technologies</b>: • Front-end: React.js, • Back-end: Node.js, Express.js, • Database: MongoDB, Firebase(Auth)
+
+#### 🔗 <a href=https://github.com/mursalinmirme/circus-festivity>Client Side Github</a>
+#### 🔗 <a href=https://github.com/mursalinmirme/circus-festivity-server>Server Side Github</a>
+#### 🔗 <a href=https://circus-festivity.web.app>Live link</a>

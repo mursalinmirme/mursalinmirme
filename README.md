@@ -56,7 +56,7 @@
 
    • Participants join, pay, manage registrations, and provide reviews for a comprehensive user experience.
 
-   <b>Technologies</b>: • Front-end: React.js, Material UI, • Back-end: Node.js, Express.js, • Database: MongoDB, Firebase(Auth)
+   <b>Technologies</b>: • Front-end: React.js, Material UI, React-table • Back-end: Node.js, Express.js • Database: MongoDB, Firebase(Auth)
 
 #### 🔗 <a href=https://github.com/mursalinmirme/wellnex>Client Side Github</a>
 #### 🔗 <a href=https://github.com/mursalinmirme/wellnex-server>Server Side Github</a>
@@ -69,7 +69,7 @@
 
    • Facilitates reader interaction by enabling comments and community-driven discussion around blog content.
 
-   <b>Technologies</b>: • Front-end: React.js, Material UI, • Back-end: Node.js, Express.js, • Database: MongoDB, Firebase(Auth)
+   <b>Technologies</b>: • Front-end: React.js, Material UI, React-loading-skeleton • Back-end: Node.js, Express.js • Database: MongoDB, Firebase(Auth)
 
 #### 🔗 <a href=https://github.com/mursalinmirme/blog-pulse>Client Side Github</a>
 #### 🔗 <a href=https://github.com/mursalinmirme/blog-pulse-server>Server Side Github</a>
@@ -82,7 +82,7 @@
 
    • Established a comprehensive ticketing system for adults, children, and infants.
 
-   <b>Technologies</b>: • Front-end: React.js, • Back-end: Node.js, Express.js, • Database: MongoDB, Firebase(Auth)
+   <b>Technologies</b>: • Front-end: React.js, TailwindCss, Aos-animation • Back-end: Node.js, Express.js • Database: MongoDB, Firebase(Auth)
 
 #### 🔗 <a href=https://github.com/mursalinmirme/circus-festivity>Client Side Github</a>
 #### 🔗 <a href=https://github.com/mursalinmirme/circus-festivity-server>Server Side Github</a>

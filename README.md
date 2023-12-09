@@ -1,7 +1,7 @@
 [![An old rock in the desert](https://raw.githubusercontent.com/mursalinmirme/mursalinmirme/main/Mursalin%20Mir.jpg)](https://www.facebook.com/mursalinmir02/)
 
-## What things I know
-Versatile Web Developer proficient in React, Node.js, Express.js, MongoDB, and adept with Tailwind CSS, Bootstrap, and Material UI. Committed to crafting innovative web solutions and reshaping the digital frontier. Let's redefine the web together! 👨‍💻✨ #WebDev #TechInnovator
+## 🤹🏻‍♀️ My Tech Arsenal
+🚀 Hey, I'm Mursalin, a versatile Web Developer mastering React, Node.js, Express.js, and MongoDB. Fluent in Tailwind CSS, Bootstrap, and Material UI, I'm committed to shaping innovative web solutions. Let's redefine the web together, crafting seamless digital experiences! 👨‍💻✨ #WebDev #TechInnovator
 
 ## 💻 Technologies that I know
 <p align="center">

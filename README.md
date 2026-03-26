@@ -1,4 +1,4 @@
-[![An old rock in the desert](https://raw.githubusercontent.com/mursalinmirme/mursalinmirme/main/Mursalin%20Mir.png)](https://www.facebook.com/mursalinmir02/)
+[![An old rock in the desert](https://raw.githubusercontent.com/mursalinmirme/mursalinmirme/main/Mursalin_Mir.png)](https://www.facebook.com/mursalinmir02/)
 
 ## 🤹🏻‍♀️ My Tech Arsenal
 🚀 Hey, I'm Mursalin, an accomplished Web Developer with mastery in React, Node.js, Express.js, and MongoDB. My proficiency extends to crafting seamless digital experiences using Tailwind CSS, Bootstrap, and Material UI. With a commitment to innovation, I specialize in developing web solutions that redefine the online landscape.
